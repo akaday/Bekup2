@@ -17,6 +17,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".ListPhone"></activity>
         <activity android:name=".DetailPhone"></activity>
     </application>
 
